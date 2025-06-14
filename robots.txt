@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://harsh-mishrikotkar.github.io//sitemap.xml
+Sitemap: https://harsh-mishrikotkar.github.io//al-folio/sitemap.xml
