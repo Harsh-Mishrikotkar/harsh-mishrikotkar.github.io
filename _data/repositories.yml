@@ -1,14 +1,13 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - Harsh-Mishrikotkar
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - Harsh-Mishrikotkar/excel-to-pdf-invoice-maker
+  - Harsh-Mishrikotkar/pdf-maker
+  - Harsh-Mishrikotkar/web-portfolio
+  - Harsh-Mishrikotkar/my-todo-app
+  - Harsh-Mishrikotkar/todo-app
+  - Harsh-Mishrikotkar/Loan-Approval_Prediction
+  - Harsh-Mishrikotkar/Predinging-Insurnace-Rates
