@@ -14,6 +14,5 @@ profiles:
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>1110 Knollwood Drive</p>
-      <p>Buffalo Grove, Illinois 60089</p>
+      <p></p>
 ---
